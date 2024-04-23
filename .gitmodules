@@ -7,3 +7,6 @@
 [submodule "products"]
 	path = products
 	url = https://github.com/drmiltonc/products_ms.git
+[submodule "order-ms"]
+	path = order-ms
+	url = https://github.com/drmiltonc/order-ms.git
